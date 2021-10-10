@@ -1,0 +1,66 @@
+body{
+  background-color: #A9E4D7;
+}
+
+#output{
+    border: 1px solid black;
+    height: 5vh;
+    padding-top: 0.7rem;
+    width:45%;
+    margin: auto;
+    background-color: white;
+    text-align: center;
+    border-radius: 0.5rem;
+    font-weight: bolder;
+    font-size: 1.3rem;
+    margin:auto;
+
+}
+textarea{
+    border: 1px solid black;
+    height: 5vh;
+    width:45%;
+    padding-top: 0.7rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin:auto;
+}
+
+#divBtn{
+    padding:0.5rem;
+    text-align: center;
+}
+
+#heading
+{
+
+    text-align: center;
+    font-family: 'Source Code Pro', monospace;
+
+
+}
+
+#innerBody
+{
+    background-color: #4B3869;
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    padding: 2rem;
+    padding-bottom: 3rem;
+    border-radius: 1rem;
+}
+h3{
+  font-family: 'Source Code Pro', monospace;
+  color: white;
+}
+h1{
+  color: white;
+}
+#btn{
+    padding:0.5rem 2rem;
+    background-color: rgb(59, 243, 59);
+    border-radius: 0.3rem;
+}

@@ -1,0 +1,176 @@
+#title{
+  background-color:#00A19D;
+  font-family: 'Ubuntu', sans-serif;
+  padding: -5%;
+
+
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+  color:white;
+}
+p{
+  color: #8f8f8f;
+}
+.container-fluid{
+
+  padding:3% 15%;
+
+}
+.navbar{
+  padding:0 0 5rem;
+
+}
+.nav-item{
+  padding: 0 18px;
+}
+.downloadbutton{
+  margin:5% 3%  5% 0;
+}
+
+.nav-link{
+  font-size: 1.3rem;
+
+  margin-right: 10%;
+  color: white;
+
+}
+.navbar-brand{
+  font-family:"Ubuntu";
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight:normal;
+}
+#testimonials{
+  background-color: #079692;
+  text-align: center;
+
+  font-family: "Montserrat";
+  color: white;
+
+}
+.carousel-item{
+  padding: 7% 14%;
+}
+#press{
+  background-color: #079692;
+  text-align: center;
+  padding-bottom: 3%;
+
+
+
+
+}
+#pricing{text-align: center;
+
+}
+.pr{
+  font-family: "Montserrat";
+  margin:100px auto 2px;
+}
+.pr1{
+  font-family: "Montserrat";
+  margin-bottom: 2px;
+}
+.pi{
+  width:15%;
+  margin:20px 30px 20px;
+  height: 65px;
+  width: 190px;
+}
+.fas{
+  color: #079692;
+  font-size: 3rem;
+}
+.container-1{
+padding: 7% 20%;
+margin-left: auto;
+margin-right: auto;
+}
+.fas:hover{
+  color: #00A19D;
+}
+.pl{
+  margin-left:20px;
+}
+
+.title-image{
+  width:23%;
+  transform: rotate(20deg);
+  position: absolute;
+  right: 21%;
+  top: 20%;
+}
+#features{
+  padding: 7% 14%;
+
+  background-color: white;
+  position:relative;
+  z-index: 1;
+}
+.rd{
+  width:15%;
+  height:20%%;
+  border-radius:100%;
+  margin:20px;
+}
+#cta{
+  background-color: #079692;
+  text-align: center;
+  padding:3%;
+  font-family: "Montserrat";
+  color: white;
+
+}
+.btn2{
+  margin-left: 4% ;
+
+}
+.fp{
+  text-align: center;
+  margin-top: 3%;
+
+
+
+}
+#footer{
+  background-color: white;
+
+  margin:0px;
+}
+
+
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+.feat{
+  text-align: center;
+
+}
+@media (max-width:1030px){
+#title{
+  text-align: center;
+}
+  .title-image{
+    position: static;
+    transform: rotate(0);
+    width: 50%;
+
+  }
+
+
+
+}
+.far{
+  line-height: 1rem;
+  margin:10px;
+  color: black;
+}
+.fab{line-height: 1rem;
+margin: 10px;
+margin-bottom: 5px;
+color: black;
+}
